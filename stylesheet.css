@@ -1,0 +1,22 @@
+table {
+    background-color: #c0c0c0;
+    border-collapse: separate;
+    border-spacing: 0.5rem;
+}
+
+td {
+    background-color: #f0f0d0;
+    width: 5rem;
+    height: 5rem;
+}
+
+td p {
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #909090;
+}
+
+#movable {
+    background-color: #c0c0c0;
+}
